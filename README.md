@@ -25,7 +25,7 @@ ExtionGLT is a Bash and Javascript tool to find the exact location of the users 
 # How to install?
 
 <pre>
-git clone https://github.com/Viralmaniar/I-See-You.git
+git clone https://github.com/extioninfotech/extionglt.git
 cd extionglt
 chmod u+x ExtionGLT.sh
 ./ExtionGLT.sh
