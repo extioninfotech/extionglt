@@ -3,7 +3,7 @@
 <b>This tool is provided for educational and research purpose only. Extion infotech is not   responsible for any misuse of this tool. 
 We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
 #
-# <p align="center">Extion Geolocation tracker - ExtionGLT 
+# <p align="center">Extion Geolocation tracker - ExtionGLT by Aryan Singh
 # This tools is developed by Extion infotech for testing and practicing of Cybersecurity interns 
 
 # <p align="center">ExtionGLT
